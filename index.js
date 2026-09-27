@@ -9,7 +9,7 @@ const {
 const TOKEN = process.env.DISCORD_TOKEN;
 
 // ใส่ ID จริงของคุณ
-const CLIENT_ID = "1552289651031543829";
+const CLIENT_ID = "1553605501814702180";
 const GUILD_ID = "1469963380126384160";
 
 // คำสั่งทั้งหมด
